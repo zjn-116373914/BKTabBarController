@@ -1,5 +1,5 @@
 # BKTabBarController
-该框架是一个TabBarController底部菜单中心控制器.该框架在原UI TabBarController基本上添加了中心控制按钮,除了切换控制器外,中心控制按钮还能提供其他操作.
+本框架是一个TabBarController底部菜单中心控制器.本框架在原UI TabBarController基本上添加了中心控制按钮,除了切换控制器外,中心控制按钮还能提供其他操作.
 
 实例:
 
